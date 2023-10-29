@@ -123,13 +123,11 @@ This code relies on the following libraries:
 
 Please ensure you have these dependencies installed to run the code successfully.
 
-## License
 
-This code is available under the MIT License. Feel free to use it and modify it for your research or project needs.
 
 ## Credits
 
-This code was developed by Luca Pernice for AI introduction course. If you find this code useful or have any questions, please feel free to reach out.
+This code was developed by Luca Pernice for AI introduction course.
 
 Enjoy solving algorithmic map coloring problems and analyzing their performance with this code!
 
